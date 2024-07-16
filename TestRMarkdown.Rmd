@@ -2,7 +2,8 @@
 title: "Hello World - Test drive R Markdown"
 author: "Kathy Yeater"
 date: "2024-07-16"
-output: html_document
+output: github_document
+  
 ---
 
 ```{r setup, include=FALSE}
